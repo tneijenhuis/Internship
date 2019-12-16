@@ -12,9 +12,9 @@ def complex_contacts(path, max_dist):
 	        col3 = line[12:17].strip()  #atom type
 	        col5 = line[21:22].strip()  #chain
 	        col6 = line[23:27].strip()  #residue number
-	        col8 = line[31:39].strip()  #x position
-	        col9 = line[39:47].strip()  #y position
-	        col10 = line[47:55].strip() #z position
+	        col8 = line[30:38].strip()  #x position
+	        col9 = line[38:46].strip()  #y position
+	        col10 = line[46:54].strip() #z position
 	        if col1 == "ATOM" and  col3 == "CA":
 	            residues.append([col3, col5, col6, float(col8), float(col9), float(col10)]) 
 
@@ -40,7 +40,7 @@ def main():
 	
 	for i in range(len(contact_list)):
 		contact_res = contact_list[i]
-		print("assi (segid {} and resid {} and name ({} or BB)) (segid {} and resid {} and name ({} or BB)) {} {} {}".format(contact_res[0], contact_res[1], contact_res[2], contact_res[3], contact_res[4], contact_res[5], contact_res[6], contact_res[6], contact_res[7]))
+		print("assi (segid {} and resid {} and (name {} or name BB)) (segid {} and resid {} and (name {} or name BB)) {} {} {}".format(contact_res[0], contact_res[1], contact_res[2], contact_res[3], contact_res[4], contact_res[5], contact_res[6], contact_res[6], contact_res[7]))
 
 if __name__ == "__main__":
 	main()

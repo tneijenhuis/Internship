@@ -12,10 +12,10 @@ def complex_clash(path):
             col3 = line[12:17].strip()  #atom type
             col5 = line[21:22].strip()  #chain
             col6 = line[23:27].strip()  #residue number
-            col8 = line[31:39].strip()  #x position
-            col9 = line[39:47].strip()  #y position
-            col10 = line[47:55].strip() #z position
-            col13 = line[73:77].strip() #atom
+            col8 = line[30:38].strip()  #x position
+            col9 = line[38:46].strip()  #y position
+            col10 = line[46:54].strip() #z position
+            col13 = line[72:76].strip() #atom
             if col1 == "ATOM" and col13 != "H":
                 residues.append([col3, col5, col6, float(col8), float(col9), float(col10)]) 
 
