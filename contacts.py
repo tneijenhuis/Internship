@@ -22,7 +22,7 @@ def complex_contacts(path, max_dist):
 	for i in range(len(residues)):
 		residue = residues[i]
 
-		for j in range(len(residues)):
+		for j in range(i, len(residues)):
 			target = residues[j]
 			if residue[1] != target[1]:
 				distance = math.sqrt(math.pow(residue[3] - target[3], 2) + math.pow(residue[4] - target[4], 2) + math.pow(residue[5] - target[5], 2))
@@ -40,7 +40,7 @@ def main():
 	
 	for i in range(len(contact_list)):
 		contact_res = contact_list[i]
-		print("assi (segid {} and resid {} and name {}) (segid {} and resid {} and name {}) {} {} {}".format(contact_res[0], contact_res[1], contact_res[2], contact_res[3], contact_res[4], contact_res[5], contact_res[6], contact_res[6], contact_res[7]))
+		print("assi (segid {} and resid {} and name ({} or BB)) (segid {} and resid {} and name ({} or BB)) {} {} {}".format(contact_res[0], contact_res[1], contact_res[2], contact_res[3], contact_res[4], contact_res[5], contact_res[6], contact_res[6], contact_res[7]))
 
 if __name__ == "__main__":
 	main()
