@@ -3,7 +3,7 @@ import argparse
 
 
 def complex_contacts(path, max_dist):
-	"""Doc string"""
+	"""Takes a PDB file and returns intramolecular distance restrains"""
 
 	with open(path) as file:
 	    residues = []
