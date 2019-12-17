@@ -8,19 +8,22 @@ def complex_contacts(path, max_dist):
 	with open(path) as file:
 	    residues = []
 	    for line in file:
-	        col1 = line[0:7].strip()    #identifier
+	    	col1 = line[0:6].strip()    #identifier
 	        col3 = line[12:17].strip()  #atom type
 	        col5 = line[21:22].strip()  #chain
 	        col6 = line[23:27].strip()  #residue number
 	        col8 = line[30:38].strip()  #x position
 	        col9 = line[38:46].strip()  #y position
 	        col10 = line[46:54].strip() #z position
+	       
 	        if col1 == "ATOM" and  col3 == "CA":
 	            residues.append([col3, col5, col6, float(col8), float(col9), float(col10)]) 
 
 	contacts = []
+	
 	for i in range(len(residues)):
 		residue = residues[i]
+
 
 		for j in range(i, len(residues)):
 			target = residues[j]

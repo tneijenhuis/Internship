@@ -8,7 +8,7 @@ def complex_clash(path):
     with open(path) as file:
         residues = []
         for line in file:
-            col1 = line[0:7].strip()    #identifier
+            col1 = line[0:6].strip()    #identifier
             col3 = line[12:17].strip()  #atom type
             col5 = line[21:22].strip()  #chain
             col6 = line[23:27].strip()  #residue number
@@ -23,7 +23,7 @@ def complex_clash(path):
     clashes = 0
     for i in range(len(residues)):
         residue = residues[i]
-        for j in range(i, len(residues)):
+        for j in range(i + 1, len(residues)):
             target = residues[j]
             if residue[1] != target[1]:
                 distance = math.sqrt(math.pow(residue[3] - target[3], 2) + math.pow(residue[4] - target[4], 2) + math.pow(residue[5] - target[5], 2))
