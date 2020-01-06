@@ -1,7 +1,10 @@
 import argparse
 
 def remove_anisou(pdb):
-	with open(pdb) as file:
+
+	"""Takes a PDB file and removes ANISOU data"""
+	
+	swith open(pdb) as file:
 		new_file = ""
 		for line in file:
 			if line[0:6] != "ANISOU":

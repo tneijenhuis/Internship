@@ -33,15 +33,16 @@ def complex_clash(path):
                         clashes +=1
                         contacts.append(interact)
 
-    return clashes
+    return clashes, contacts
 
 def main():
     parser = argparse.ArgumentParser(description="Find complex clashes")
     parser.add_argument("complex_pdb", help="The path to the complex pdb file" )
     args = parser.parse_args()
-    clashes = complex_clash(args.complex_pdb)
+    clashnmbr, clashes = complex_clash(args.complex_pdb)
     
-    print(clashes)
+    print(clashnmbr, clashes)
+
 
 if __name__ == "__main__":
     main()
