@@ -1,0 +1,206 @@
+assign (segid A and resi 376 and name CA) (segid A and resi 830 and name CA) 51.528 0.0 0.0
+assign (segid A and resi 293 and name CA) (segid A and resi 844 and name CA) 75.553 0.0 0.0
+assign (segid A and resi 177 and name CA) (segid A and resi 883 and name CA) 84.293 0.0 0.0
+assign (segid A and resi 325 and name CA) (segid A and resi 877 and name CA) 76.956 0.0 0.0
+assign (segid A and resi 729 and name CA) (segid A and resi 882 and name CA) 43.998 0.0 0.0
+assign (segid A and resi 658 and name CA) (segid A and resi 877 and name CA) 50.631 0.0 0.0
+assign (segid B and resi 129 and name CA) (segid B and resi 388 and name CA) 73.678 0.0 0.0
+assign (segid B and resi 81 and name CA) (segid B and resi 399 and name CA) 66.479 0.0 0.0
+assign (segid B and resi 13 and name CA) (segid B and resi 806 and name CA) 105.477 0.0 0.0
+assign (segid B and resi 99 and name CA) (segid B and resi 662 and name CA) 76.704 0.0 0.0
+assign (segid B and resi 91 and name CA) (segid B and resi 882 and name CA) 116.627 0.0 0.0
+assign (segid B and resi 59 and name CA) (segid B and resi 877 and name CA) 116.424 0.0 0.0
+assign (segid B and resi 242 and name CA) (segid B and resi 646 and name CA) 63.186 0.0 0.0
+assign (segid B and resi 408 and name CA) (segid B and resi 731 and name CA) 61.225 0.0 0.0
+assign (segid B and resi 316 and name CA) (segid B and resi 877 and name CA) 75.383 0.0 0.0
+assign (segid B and resi 397 and name CA) (segid B and resi 882 and name CA) 65.558 0.0 0.0
+assign (segid B and resi 598 and name CA) (segid B and resi 879 and name CA) 51.416 0.0 0.0
+assign (segid B and resi 575 and name CA) (segid B and resi 875 and name CA) 31.592 0.0 0.0
+assign (segid C and resi 129 and name CA) (segid C and resi 388 and name CA) 67.861 0.0 0.0
+assign (segid C and resi 81 and name CA) (segid C and resi 399 and name CA) 65.832 0.0 0.0
+assign (segid C and resi 13 and name CA) (segid C and resi 806 and name CA) 101.958 0.0 0.0
+assign (segid C and resi 99 and name CA) (segid C and resi 662 and name CA) 72.664 0.0 0.0
+assign (segid C and resi 91 and name CA) (segid C and resi 882 and name CA) 110.847 0.0 0.0
+assign (segid C and resi 59 and name CA) (segid C and resi 877 and name CA) 105.738 0.0 0.0
+assign (segid C and resi 242 and name CA) (segid C and resi 646 and name CA) 63.008 0.0 0.0
+assign (segid C and resi 408 and name CA) (segid C and resi 731 and name CA) 62.354 0.0 0.0
+assign (segid C and resi 316 and name CA) (segid C and resi 877 and name CA) 75.166 0.0 0.0
+assign (segid C and resi 397 and name CA) (segid C and resi 882 and name CA) 66.236 0.0 0.0
+assign (segid C and resi 598 and name CA) (segid C and resi 879 and name CA) 50.979 0.0 0.0
+assign (segid C and resi 575 and name CA) (segid C and resi 875 and name CA) 31.008 0.0 0.0
+assign (segid D and resi 129 and name CA) (segid D and resi 388 and name CA) 78.367 0.0 0.0
+assign (segid D and resi 81 and name CA) (segid D and resi 399 and name CA) 63.313 0.0 0.0
+assign (segid D and resi 13 and name CA) (segid D and resi 806 and name CA) 107.004 0.0 0.0
+assign (segid D and resi 99 and name CA) (segid D and resi 662 and name CA) 70.340 0.0 0.0
+assign (segid D and resi 91 and name CA) (segid D and resi 882 and name CA) 115.282 0.0 0.0
+assign (segid D and resi 59 and name CA) (segid D and resi 877 and name CA) 120.553 0.0 0.0
+assign (segid D and resi 242 and name CA) (segid D and resi 646 and name CA) 62.758 0.0 0.0
+assign (segid D and resi 408 and name CA) (segid D and resi 731 and name CA) 60.893 0.0 0.0
+assign (segid D and resi 316 and name CA) (segid D and resi 877 and name CA) 75.225 0.0 0.0
+assign (segid D and resi 397 and name CA) (segid D and resi 882 and name CA) 70.233 0.0 0.0
+assign (segid D and resi 598 and name CA) (segid D and resi 879 and name CA) 51.694 0.0 0.0
+assign (segid D and resi 575 and name CA) (segid D and resi 875 and name CA) 32.162 0.0 0.0
+assign (segid E and resi 129 and name CA) (segid E and resi 388 and name CA) 79.202 0.0 0.0
+assign (segid E and resi 81 and name CA) (segid E and resi 399 and name CA) 64.745 0.0 0.0
+assign (segid E and resi 13 and name CA) (segid E and resi 806 and name CA) 101.372 0.0 0.0
+assign (segid E and resi 99 and name CA) (segid E and resi 662 and name CA) 69.336 0.0 0.0
+assign (segid E and resi 91 and name CA) (segid E and resi 882 and name CA) 117.108 0.0 0.0
+assign (segid E and resi 59 and name CA) (segid E and resi 877 and name CA) 118.236 0.0 0.0
+assign (segid E and resi 242 and name CA) (segid E and resi 646 and name CA) 62.019 0.0 0.0
+assign (segid E and resi 408 and name CA) (segid E and resi 731 and name CA) 62.073 0.0 0.0
+assign (segid E and resi 316 and name CA) (segid E and resi 877 and name CA) 75.143 0.0 0.0
+assign (segid E and resi 397 and name CA) (segid E and resi 882 and name CA) 69.246 0.0 0.0
+assign (segid E and resi 598 and name CA) (segid E and resi 879 and name CA) 52.247 0.0 0.0
+assign (segid E and resi 575 and name CA) (segid E and resi 875 and name CA) 31.627 0.0 0.0
+assign (segid F and resi 376 and name CA) (segid F and resi 830 and name CA) 55.171 0.0 0.0
+assign (segid F and resi 293 and name CA) (segid F and resi 844 and name CA) 71.270 0.0 0.0
+assign (segid F and resi 177 and name CA) (segid F and resi 883 and name CA) 85.308 0.0 0.0
+assign (segid F and resi 325 and name CA) (segid F and resi 877 and name CA) 79.774 0.0 0.0
+assign (segid F and resi 729 and name CA) (segid F and resi 882 and name CA) 46.215 0.0 0.0
+assign (segid F and resi 658 and name CA) (segid F and resi 877 and name CA) 55.149 0.0 0.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi A    and resi  218 and name "CE"  )
+     (segi A    and resi 1001 and name "PG"  )  3.879 1.0 1.0
+assi (segi A    and resi  214 and name "CB"  )
+     (segi A    and resi 1001 and name "O2G" )  4.079 1.0 1.0
+assi (segi A    and resi  219 and name "CG2" )
+     (segi A    and resi 1001 and name "O3G" )  4.130 1.0 1.0
+assi (segi A    and resi  217 and name "N"   )
+     (segi A    and resi 1001 and name "PA"  )  2.158 1.0 1.0
+assi (segi A    and resi  215 and name "N"   )
+     (segi A    and resi 1001 and name "O3A" )  3.494 1.0 1.0
+assi (segi A    and resi  393 and name "CD1" )
+     (segi A    and resi 1001 and name "C2'" )  4.039 1.0 1.0
+assi (segi A    and resi  389 and name "CB"  )
+     (segi A    and resi 1001 and name "C1'" )  3.974 1.0 1.0
+assi (segi A    and resi  220 and name "CB"  )
+     (segi A    and resi 1001 and name "N9"  )  4.013 1.0 1.0
+assi (segi A    and resi  351 and name "CG2" )
+     (segi A    and resi 1001 and name "N7"  )  3.559 1.0 1.0
+assi (segi A    and resi  187 and name "N"   )
+     (segi A    and resi 1001 and name "N6"  )  2.937 1.0 1.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi B    and resi  215 and name "N"   )
+     (segi B    and resi 1001 and name "PG"  )  4.319 1.0 1.0
+assi (segi B    and resi  214 and name "CB"  )
+     (segi B    and resi 1001 and name "O1G" )  3.633 1.0 1.0
+assi (segi B    and resi  219 and name "OG1" )
+     (segi B    and resi 1001 and name "O2G" )  3.475 1.0 1.0
+assi (segi B    and resi  218 and name "NZ"  )
+     (segi B    and resi 1001 and name "O3G" )  4.067 1.0 1.0
+assi (segi B    and resi  217 and name "N"   )
+     (segi B    and resi 1001 and name "O2B" )  2.851 1.0 1.0
+assi (segi B    and resi  390 and name "OD1" )
+     (segi B    and resi 1001 and name "O5'" )  4.034 1.0 1.0
+assi (segi B    and resi  220 and name "CB"  )
+     (segi B    and resi 1001 and name "C2'" )  4.594 1.0 1.0
+assi (segi B    and resi  184 and name "OD2" )
+     (segi B    and resi 1001 and name "O2'" )  4.482 1.0 1.0
+assi (segi B    and resi  393 and name "CD1" )
+     (segi B    and resi 1001 and name "C1'" )  3.658 1.0 1.0
+assi (segi B    and resi  355 and name "CD1" )
+     (segi B    and resi 1001 and name "C8"  )  3.583 1.0 1.0
+assi (segi B    and resi  351 and name "CG2" )
+     (segi B    and resi 1001 and name "C6"  )  3.717 1.0 1.0
+assi (segi B    and resi  185 and name "O"   )
+     (segi B    and resi 1001 and name "N6"  )  3.266 1.0 1.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi C    and resi  215 and name "N"   )
+     (segi C    and resi 1001 and name "PG"  )  4.294 1.0 1.0
+assi (segi C    and resi  214 and name "CB"  )
+     (segi C    and resi 1001 and name "O1G" )  3.444 1.0 1.0
+assi (segi C    and resi  219 and name "OG1" )
+     (segi C    and resi 1001 and name "O2G" )  3.712 1.0 1.0
+assi (segi C    and resi  218 and name "NZ"  )
+     (segi C    and resi 1001 and name "O3G" )  3.283 1.0 1.0
+assi (segi C    and resi  217 and name "CA"  )
+     (segi C    and resi 1001 and name "O5'" )  4.360 1.0 1.0
+assi (segi C    and resi  393 and name "CD1" )
+     (segi C    and resi 1001 and name "C4'" )  4.061 1.0 1.0
+assi (segi C    and resi  220 and name "CB"  )
+     (segi C    and resi 1001 and name "C2'" )  4.406 1.0 1.0
+assi (segi C    and resi  184 and name "OD2" )
+     (segi C    and resi 1001 and name "O2'" )  4.224 1.0 1.0
+assi (segi C    and resi  187 and name "O"   )
+     (segi C    and resi 1001 and name "C6"  )  3.506 1.0 1.0
+assi (segi C    and resi  185 and name "O"   )
+     (segi C    and resi 1001 and name "C2"  )  3.222 1.0 1.0
+assi (segi C    and resi  355 and name "CD1" )
+     (segi C    and resi 1001 and name "N3"  )  3.704 1.0 1.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi D    and resi  826 and name "NH2" )
+     (segi D    and resi  901 and name "PG"  )  3.314 1.0 1.0
+assi (segi D    and resi  620 and name "CE"  )
+     (segi D    and resi  901 and name "O3G" )  3.828 1.0 1.0
+assi (segi D    and resi  617 and name "N"   )
+     (segi D    and resi  901 and name "O2B" )  2.911 1.0 1.0
+assi (segi D    and resi  621 and name "OG1" )
+     (segi D    and resi  901 and name "O3B" )  3.065 1.0 1.0
+assi (segi D    and resi  619 and name "N"   )
+     (segi D    and resi  901 and name "O2A" )  2.731 1.0 1.0
+assi (segi D    and resi  622 and name "CG"  )
+     (segi D    and resi  901 and name "C3'" )  3.881 1.0 1.0
+assi (segi D    and resi  787 and name "NH1" )
+     (segi D    and resi  901 and name "O3'" )  4.014 1.0 1.0
+assi (segi D    and resi  790 and name "OE1" )
+     (segi D    and resi  901 and name "O2'" )  4.087 1.0 1.0
+assi (segi D    and resi  825 and name "CB"  )
+     (segi D    and resi  901 and name "C1'" )  3.757 1.0 1.0
+assi (segi D    and resi  775 and name "CD2" )
+     (segi D    and resi  901 and name "C5"  )  3.859 1.0 1.0
+assi (segi D    and resi  581 and name "N"   )
+     (segi D    and resi  901 and name "C6"  )  3.467 1.0 1.0
+assi (segi D    and resi  579 and name "O"   )
+     (segi D    and resi  901 and name "C2"  )  3.156 1.0 1.0
+assi (segi D    and resi  783 and name "CG2" )
+     (segi D    and resi  901 and name "N3"  )  4.137 1.0 1.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi E    and resi  214 and name "CA"  )
+     (segi E    and resi 1001 and name "PG"  )  4.413 1.0 1.0
+assi (segi E    and resi  219 and name "OG1" )
+     (segi E    and resi 1001 and name "O2G" )  3.506 1.0 1.0
+assi (segi E    and resi  215 and name "N"   )
+     (segi E    and resi 1001 and name "PB"  )  3.979 1.0 1.0
+assi (segi E    and resi  217 and name "N"   )
+     (segi E    and resi 1001 and name "O2B" )  2.792 1.0 1.0
+assi (segi E    and resi  393 and name "CD1" )
+     (segi E    and resi 1001 and name "C4'" )  4.563 1.0 1.0
+assi (segi E    and resi  220 and name "CB"  )
+     (segi E    and resi 1001 and name "C3'" )  4.497 1.0 1.0
+assi (segi E    and resi  223 and name "OE2" )
+     (segi E    and resi 1001 and name "O3'" )  4.882 1.0 1.0
+assi (segi E    and resi  184 and name "OD2" )
+     (segi E    and resi 1001 and name "C2'" )  3.772 1.0 1.0
+assi (segi E    and resi  389 and name "CB"  )
+     (segi E    and resi 1001 and name "C8"  )  3.776 1.0 1.0
+assi (segi E    and resi  351 and name "CD1" )
+     (segi E    and resi 1001 and name "N7"  )  3.773 1.0 1.0
+assi (segi E    and resi  187 and name "O"   )
+     (segi E    and resi 1001 and name "C6"  )  3.867 1.0 1.0
+assi (segi E    and resi  185 and name "O"   )
+     (segi E    and resi 1001 and name "C2"  )  3.234 1.0 1.0
+assi (segi E    and resi  355 and name "CD1" )
+     (segi E    and resi 1001 and name "N3"  )  3.706 1.0 1.0
+! Restraints to fix 'ATP' in its initial position
+assi (segi F    and resi  616 and name "CB"  )
+     (segi F    and resi  901 and name "PG"  )  4.142 1.0 1.0
+assi (segi F    and resi  621 and name "CG2" )
+     (segi F    and resi  901 and name "O1G" )  3.885 1.0 1.0
+assi (segi F    and resi  617 and name "N"   )
+     (segi F    and resi  901 and name "PB"  )  3.453 1.0 1.0
+assi (segi F    and resi  826 and name "NH2" )
+     (segi F    and resi  901 and name "O3B" )  3.208 1.0 1.0
+assi (segi F    and resi  620 and name "N"   )
+     (segi F    and resi  901 and name "O2A" )  3.063 1.0 1.0
+assi (segi F    and resi  622 and name "OE1" )
+     (segi F    and resi  901 and name "C3'" )  4.557 1.0 1.0
+assi (segi F    and resi  787 and name "NH1" )
+     (segi F    and resi  901 and name "C2'" )  4.528 1.0 1.0
+assi (segi F    and resi  825 and name "CB"  )
+     (segi F    and resi  901 and name "C1'" )  4.215 1.0 1.0
+assi (segi F    and resi  783 and name "CD1" )
+     (segi F    and resi  901 and name "C6"  )  3.638 1.0 1.0
+assi (segi F    and resi  583 and name "OE1" )
+     (segi F    and resi  901 and name "N6"  )  2.798 1.0 1.0
+assi (segi F    and resi  581 and name "N"   )
+     (segi F    and resi  901 and name "N1"  )  3.321 1.0 1.0
