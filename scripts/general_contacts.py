@@ -30,7 +30,7 @@ def complex_contacts(path, max_dist):
 			if residue[1] != target[1]:
 				distance = math.sqrt(math.pow(residue[3] - target[3], 2) + math.pow(residue[4] - target[4], 2) + math.pow(residue[5] - target[5], 2))
 				if distance < max_dist:
-					contacts.append([residue[1], residue[2], residue[0], target[1], target[2], target[0], distance * 1.5, 0.0])
+					contacts.append([residue[1], residue[2], residue[0], target[1], target[2], target[0], 8, 0.0])
 					
 	return contacts
 
