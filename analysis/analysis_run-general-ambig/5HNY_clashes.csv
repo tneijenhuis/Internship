@@ -1,5 +1,4 @@
 structure,HADDOCK-score,atomic-clashes
-5HNY_1.pdb,-725.90006,1
 5HNY_10.pdb,-782.04268,0
 5HNY_11.pdb,-784.97108,3
 5HNY_12.pdb,-782.603045,0
@@ -10,7 +9,7 @@ structure,HADDOCK-score,atomic-clashes
 5HNY_17.pdb,-865.40384,3
 5HNY_18.pdb,-788.33998,3
 5HNY_19.pdb,-835.06366,2
-5HNY_2.pdb,-801.5583,0
+5HNY_1.pdb,-725.90006,1
 5HNY_20.pdb,-928.8379,0
 5HNY_21.pdb,-814.58377,2
 5HNY_22.pdb,-885.820316,0
@@ -21,7 +20,7 @@ structure,HADDOCK-score,atomic-clashes
 5HNY_27.pdb,-770.17848,2
 5HNY_28.pdb,-894.62897,2
 5HNY_29.pdb,-789.64945,0
-5HNY_3.pdb,-947.98273,1
+5HNY_2.pdb,-801.5583,0
 5HNY_30.pdb,-826.59628,2
 5HNY_31.pdb,-809.74713,0
 5HNY_32.pdb,-906.72513,1
@@ -32,7 +31,7 @@ structure,HADDOCK-score,atomic-clashes
 5HNY_37.pdb,-863.12425,2
 5HNY_38.pdb,-750.2729,0
 5HNY_39.pdb,-799.4485,1
-5HNY_4.pdb,-815.01634,0
+5HNY_3.pdb,-947.98273,1
 5HNY_40.pdb,-893.57083,0
 5HNY_41.pdb,-910.62101,1
 5HNY_42.pdb,-800.90177,2
@@ -43,8 +42,9 @@ structure,HADDOCK-score,atomic-clashes
 5HNY_47.pdb,-777.13473,0
 5HNY_48.pdb,-917.5335,1
 5HNY_49.pdb,-799.20937,0
-5HNY_5.pdb,-880.478573,2
+5HNY_4.pdb,-815.01634,0
 5HNY_50.pdb,-720.62544,1
+5HNY_5.pdb,-880.478573,2
 5HNY_6.pdb,-658.09314,2
 5HNY_7.pdb,-814.03581,1
 5HNY_8.pdb,-896.27788,0
