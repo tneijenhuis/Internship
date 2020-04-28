@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+5HNY_50w.pdb,-412.449865,20.06,2.55,13.04,3.30
+5HNY_44w.pdb,-409.908278,21.99,2.11,15.67,3.38
+5HNY_33w.pdb,-401.7752,21.39,2.02,15.87,3.37
+5HNY_39w.pdb,-401.651196,20.34,2.20,13.85,3.30

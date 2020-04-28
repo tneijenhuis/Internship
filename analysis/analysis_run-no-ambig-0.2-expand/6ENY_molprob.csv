@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+6ENY_32w.pdb,-559.54159,17.59,1.82,32.66,3.47
+6ENY_12w.pdb,-559.428546,19.05,1.82,32.07,3.52
+6ENY_2w.pdb,899.80661,19.34,1.82,32.07,3.50
+6ENY_4w.pdb,901.69108,20.19,1.69,32.74,3.54

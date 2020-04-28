@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+6N7G_45w.pdb,-564.42402,15.05,2.01,12.62,3.13
+6N7G_37w.pdb,-562.61607,15.36,1.73,12.19,3.13
+6N7G_18w.pdb,-557.31945,14.65,2.01,12.40,3.12
+6N7G_11w.pdb,-555.67278,14.70,1.73,12.19,3.10
