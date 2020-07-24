@@ -1,0 +1,5 @@
+structure,HADDOCK-score,correlation,atomic-clashes
+5GRS_3w.pdb,-2432.315605,0.9001,0
+5GRS_8w.pdb,-2432.168915,0.9001,0
+5GRS_30w.pdb,-2430.155744,0.9,0
+5GRS_39w.pdb,-2427.929916,0.9,0

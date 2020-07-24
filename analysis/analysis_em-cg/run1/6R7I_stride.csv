@@ -1,0 +1,5 @@
+structure,HADDOCK-score,Helix,Sheet,Turn,Coil,All
+em-cg_17w.pdb,5.816,1490,131,2534,645,4800
+em-cg_49w.pdb,18.2983,1507,134,2506,644,4791
+em-cg_39w.pdb,43.57,1455,149,2589,633,4826
+em-cg_41w.pdb,54.638,1440,136,2619,643,4838
